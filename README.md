@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Swift programming: type mismatch in function arguments. The `calculateArea` function expects integer inputs for width and height, but the example call attempts to pass a string, causing a compile-time error. The solution shows how to correctly use type checking and handle potential type errors.
